@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+    border: 2px solid green;
+    width: 30vw;
+    margin: 15px 400px;
+    background-color: aqua;
+}
+button{
+    background-color: green;
+    color: white;
+    margin: 5px 5px;
+    padding: 5px;
+}
+#Info{
+    font-size: 1rem;
+    font-weight: 600;
+}
